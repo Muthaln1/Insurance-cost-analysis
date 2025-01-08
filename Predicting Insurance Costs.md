@@ -241,12 +241,13 @@ print(correlation_data)
 import seaborn as sns
 import matplotlib.pyplot as plt
 sns.heatmap(correlation_data, cmap="Blues",cbar=True,annot=True)
+plt.title("Heatmap of correlation Data", fontsize=10, weight='bold')
 plt.show()
 ```
 
 
     
-![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/output%202.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/correlation%20analysis.png)
     
 
 
