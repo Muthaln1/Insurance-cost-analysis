@@ -11,7 +11,8 @@
 + `bmi`     : The body mass index (BMI) of the individual. This is a continuous variable, calculated as weight (in kg) divided by height
 + `children`: The number of children or dependents the individual has. This is a discrete, non-negative integer value(
 + `smoker`  : Indicates whether the individual is a smoker. This is a categorical variable, where 'yes' means the individual smokes and 'no'               means they do not
-+ `region`  : The region where the individual resides. This is typically encoded as a categorical variable, possibly with four regionsin the               US:
++ `region`  : The region where the individual resides. This is typically encoded as a categorical variable, possibly with four regions in 
+              the US:
      + southeast,
      + southwest,
      + northeast
