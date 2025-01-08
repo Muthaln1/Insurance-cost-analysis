@@ -290,7 +290,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Histogram%20of%20charges.png)
     
 
 
@@ -325,7 +325,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Histogram%20of%20charges%20log.png)
     
 
 
@@ -355,7 +355,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Box%20plot%20charges%20by%20sex.png)
     
 
 
@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png]()
     
 
 
