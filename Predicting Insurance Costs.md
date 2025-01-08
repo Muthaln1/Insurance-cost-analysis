@@ -150,7 +150,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Output%201.png)
     
 
 
@@ -245,7 +245,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/output%202.png)
     
 
 
