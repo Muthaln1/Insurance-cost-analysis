@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png]()
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Boxplot%20charges%20by%20age.png)
     
 
 
@@ -390,7 +390,7 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/scatter%20plot%20of%20bmi%20by%20charges.png)
     
 
 
@@ -420,7 +420,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Boxplot%20of%20charges%20by%20smoker.png)
     
 
 
@@ -451,7 +451,7 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Boxplot%20of%20charges%20by%20region.png)
     
 
 
@@ -559,7 +559,7 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Numerical%20and%20binary%20features.png)
     
 
 
@@ -700,7 +700,7 @@ plt.show()
 
 
     
-![png](output_60_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Categorical%20features.png)
     
 
 
@@ -837,7 +837,7 @@ plt.show()
 
 
     
-![png](output_70_0.png)
+![png](https://github.com/Muthaln1/Insurance-cost-analysis/blob/main/Test%20set%20model.png)
     
 
 
